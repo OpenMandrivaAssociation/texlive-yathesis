@@ -1,6 +1,6 @@
 Name:		texlive-yathesis
-Version:	63576
-Release:	2
+Version:	66146
+Release:	1
 Summary:	A LaTeX class for writing a thesis following French rules
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/yathesis

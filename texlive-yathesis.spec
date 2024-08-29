@@ -1,5 +1,5 @@
 Name:		texlive-yathesis
-Version:	66146
+Version:	70511
 Release:	1
 Summary:	A LaTeX class for writing a thesis following French rules
 Group:		Publishing
